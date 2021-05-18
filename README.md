@@ -33,6 +33,6 @@ The project has two parts. First, the backend is based on Django with Django RES
 1. 'api' is includes some functions for management.  
 2. 'app_basic' includes basic functions.  
 3. 'app_database' is designed for setting models.  
-4. 'app_utils' includes some functions for authentication.  
+4. 'app_utils' includes some functions for authentication and others.  
 5. 'frontend' is the main dir for the frontend.   
 6. 'tvsys' is the main Diango booting dir.  
