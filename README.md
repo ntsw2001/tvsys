@@ -2,7 +2,7 @@
 A system designed for management of devices in NjtechTV  
 Version 0.7.202104  
   
-## Editor:   
+## Author:   
 @ntsw2001   https://github.com/ntsw2001  
 @NortheBei  https://github.com/NortheBei  
 
