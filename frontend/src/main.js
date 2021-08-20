@@ -8,8 +8,7 @@ import store from './store/store'
 // import axios from 'axios'
 
 var axios = require('axios')
-axios.defaults.baseURL = 'https://clax.xyz:61925/'
-// axios.defaults.baseURL = 'http://127.0.0.1:61925/'
+axios.defaults.baseURL = 'http://127.0.0.1:61925/'
 
 Vue.prototype.$http = axios;
 Vue.prototype.axios = axios;
