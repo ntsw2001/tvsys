@@ -1,6 +1,10 @@
 # tvsys  
 A system designed for management of devices in NjtechTV  
-Version 0.7.202104  
+Version 0.7.202104
+
+DEMO: https://tvsys.clax.xyz
+Default admin account: 998856, password: 123456
+Default normal user: 998855, password: 123456
   
 ## Author:   
 @ntsw2001   https://github.com/ntsw2001  
