@@ -2,8 +2,8 @@
 A system designed for management of devices in NjtechTV  
 Version 0.7.202104
 
-DEMO: https://tvsys.clax.xyz
-Default admin account: 998856, password: 123456
+DEMO: https://tvsys.clax.xyz <br>
+Default admin account: 998856, password: 123456 <br>
 Default normal user: 998855, password: 123456
   
 ## Author:   
