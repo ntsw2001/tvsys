@@ -7,8 +7,8 @@ Default admin account: 998856, password: 123456 <br>
 Default normal user: 998855, password: 123456
   
 ## Author:   
-@ntsw2001   https://github.com/ntsw2001  
-@NortheBei  https://github.com/NortheBei  
+@ntsw2001&nbsp;&nbsp;&nbsp;https://github.com/ntsw2001  
+@NortheBei&nbsp;&nbsp;https://github.com/NortheBei  
 
 The project has two parts. First, the backend is based on Django with Django REST Framework. While the frontend is mainly based on Vue.js, along with Webpack.  
   
